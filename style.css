@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2cebd;
+}
+
+#hobbies {
+  background-color: #e2cebd;
+}
+
+.navbar {
+  background-color: #3c2621; /* Ganti kode warna sesuai yang Anda inginkan */
+}
+
+.footer {
+  background-color: #3c2621; /* Ganti kode warna sesuai yang Anda inginkan */
+}
+
+.btn {
+  background-color: #3c2621; /* Ganti kode warna sesuai yang Anda inginkan */
+}
+
+section {
+  padding-top: 5rem;
+}
